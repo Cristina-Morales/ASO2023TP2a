@@ -1,0 +1,5 @@
+Que problema se puede ver a simple vista?
+ - Que el programa no valida en ningun momento el hilo que puede ejecutarse yy no se alternan los hilos
+que nombre se le da a esta falla que ocurre en el codigo que provoca que cada ejecucion presente resultados diferrentes?
+ - El nombre es Race  Condition, los hilos no se ejecutan en el orden que se esperaba 
+ - Tratee de usar el algoritmo de peterson
